@@ -13,11 +13,11 @@ Software Engineering is a pretty nice field in computer science for someone stud
 
 ## Interests
 
-Obviously, if one ever gets into software engineering, they want to get into it for a dedicated reason. Take me for example, as I am someone who sparked interest in software engineering after hearing that it can be useful for customization
+Obviously, if one ever gets into software engineering, they want to get into it for a dedicated reason. Take me for example, as I am someone who has been getting into technology since my elementary school years through browsing the computer and playing video games. I sparked interest in software engineering after hearing that it can not only be useful for customization, but as the world evolves from a technical standpoint to the point where you see new technical trends such as artifical intelligence going around (I am especially interested in wanting to learn the mechanics of artificial intelligence for my personal benefits), it's pretty easy to adapt to the evolving world by learning new things.
 
 ## Skills
 
-
+With interests in software engineering formed, it's now time we talk about the skills and experiences I hope to develop.
 
 ## Conclusion
 
