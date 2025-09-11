@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/3204862-hirezsnake.png
+image: img/How-to-Avoid-Snakes-Slithering-Up-Your-Toilet-shutterstock_780480850-1.webp
 title: "Snake Game"
 date: 2025-09-10
 published: true
