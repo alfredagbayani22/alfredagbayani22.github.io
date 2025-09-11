@@ -10,8 +10,6 @@ labels:
   - Newbie
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/code-to-life/3632441.jpg">
-
 Software Engineering is a pretty nice field in computer science for someone studying in that field to get into, mostly because it can be customized to fit one's interests and goals in a way that can benefit them throughout life. However, when it comes to understanding the concept of software engineering, it's not as simple as someone trying to learn how to walk for the first time. Of course, it takes time to understand software engineering, and it all starts with forming our first building blocks.
 
 ## Interests
@@ -20,8 +18,8 @@ Obviously, if one ever gets into software engineering, they want to get into it 
 
 ## Skills
 
-With interests in software engineering formed, it's now time we talk about the skills and experiences I hope to develop.
+With interests in software engineering formed, it's now time we talk about the skills and experiences I hope to develop. Not all of us start off perfectly, after all. For me, I wish to gain the skills to be able to code things in a way that I would make about a hundred lines of code every hour, and for that to happen, it is necessary for me to dedicate a great part of my time every day to train myself for that dream to happen. Of course, skills don't necesarrily be exclusive to coding, as they can also apply outside of coding in the form of trying to communicate properly with peers for the best teamwork in getting projects done, and that is certainly a skill I also want to obtain from this experience.
 
 ## Conclusion
 
-If one couldn't tell already, when one is able to learn the basic concepts of software engineering given the time, it can help them adapt to the world with its versatility to create many endless possibilities on how these softwares can be formed.
+If one couldn't tell already, when one is able to learn the basic concepts of software engineering given the time dedicated to fulfill their needs, it can help them adapt to the world with its versatility to create many endless possibilities on how these softwares can be formed. Thus, as I have my personal goals of wanting to become a better at coding, everyone should very much do the same in trying to reach their goals.
