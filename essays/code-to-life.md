@@ -9,8 +9,16 @@ labels:
   - Engineering
 ---
 
-TEST
+Software Engineering is a pretty nice field in computer science for someone studying in that field to get into, mostly because it can be customized to fit one's interests and goals in a way that can benefit them throughout life. However, when it comes to understanding the concept of software engineering, it's not as simple as someone trying to learn how to walk for the first time. Of course, it takes time to understand software engineering, and it all starts with forming our first building blocks.
 
-## TEST
+## Interests
 
-TEST
+Obviously, if one ever gets into software engineering, they want to get into it for a dedicated reason. Take me for example, as I am someone who sparked interest in software engineering after hearing that it can be useful for customization
+
+## Skills
+
+
+
+## Conclusion
+
+If one couldn't tell already, when one is able to learn the basic concepts of software engineering given the time, it can help them adapt to the world with its versatility to create many endless possibilities on how these softwares can be formed.
