@@ -23,4 +23,8 @@ In [this question](https://stackoverflow.com/questions/541920/multiple-line-code
 
 In [this question](https://stackoverflow.com/questions/57735029/im-new-to-this-and-i-need-help-please-3), the OP shows a code while also proceeding to state their problem that when they run a command in their code, their bot in Discord spams in response. What makes this question stupid is that the header is unprofessional due to the fact that it never specifies what problem they have exactly and instead vaguely states that they need help, and on top of this, their grammar is somewhat off due to the fact that they forget to make the "i" in their header uppercase, followed by an unnecessary and unprofessional heart symbol "<3". Also, they never really state what their goal is, let alone asking any question stating how they should fix their code. The fact that this was a poorly formatted question was what led to the question being downvoted to -2 as well as causing the thread to be closed.
 
+## Conclusion
+
+When asking for questions in StackOverflow, please note that these questions are supposed to be professional with a goal in a way that people are able to give you answers easier. Otherwise, making dumb questions only wastes the time of many people to the point where they wouldn't be interested in answering these questions.
+
 DISCLAIMER: I did not use AI to write this essay.
