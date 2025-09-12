@@ -10,6 +10,8 @@ labels:
   - Newbie
 ---
 
+<img class="img-fluid" src="../img/3632441.jpg">
+
 Software Engineering is a pretty nice field in computer science for someone studying in that field to get into, mostly because it can be customized to fit one's interests and goals in a way that can benefit them throughout life. However, when it comes to understanding the concept of software engineering, it's not as simple as someone trying to learn how to walk for the first time. Of course, it takes time to understand software engineering, and it all starts with forming our first building blocks.
 
 ## Interests
