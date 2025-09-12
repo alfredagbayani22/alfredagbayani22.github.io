@@ -17,7 +17,7 @@ When it comes to asking smart questions, it is important that these questions in
 
 ## Smart Question Example
 
-In [this question](https://stackoverflow.com/questions/541920/multiple-line-code-example-in-javadoc-comment), 
+In [this question](https://stackoverflow.com/questions/541920/multiple-line-code-example-in-javadoc-comment), the OP shows a code example that they want to add into their Javadoc comment for a method, to which they state that their problem is that whenever they put their code example into their Javadoc comment, it shows up in the Javadoc with no line breaks which makes it difficult to read. What makes this question smart is that the header is professional to the point and not very casual-sounding, the grammar is clear, meaningful, and easy to understand to the point where it has allowed 19 people to answer this question properly, it is being asked iin a percise and informative manner to the point where they decided to show exactly what their code is as well as their output, they describe their goal and not a step, and they are very explicit in asking their question as evident by how they want an example of a correct code format, among other things that make this question smart.
 
 ## Dumb Question Example
 
