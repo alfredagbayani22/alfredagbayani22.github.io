@@ -10,4 +10,6 @@ labels:
 summary: "This was a time back in 6th grade when I was a part of a Math club."
 ---
 
+<img class="img-fluid" src="../img/high-school-mathematics-club-with-students-solving-00353-03_883586-66333.avif">
+
 When I was in 6th grade, I was a part of a Math Club. I ended up being chosen to be a part of it as a result of how I was ahead of everyone in my Math and Algebra classes. Within this club, we spent time doing many advanced mathematical problems together, and it has truly helped me improve on my math skills in the long run. 
