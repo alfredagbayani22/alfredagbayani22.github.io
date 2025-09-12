@@ -8,7 +8,7 @@ published: true
 labels:
   - Robotics
   - Engineering
-summary: "This was a time back in 1th grade when I got to control a motor robot."
+summary: "This was a time back in 11th grade when I got to control a motor robot."
 ---
 
 <img class="img-fluid" src="../img/DSC7307.webp">
