@@ -9,6 +9,8 @@ labels:
   - Coding
   - Newbie
   - Reflection
+  - VSCode
+  - Education
 ---
 
 <img class="img-fluid" src="../img/Coding-Standards.jpg">
