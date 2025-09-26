@@ -18,3 +18,5 @@ TEXT
 ## TEXT
 
 TEXT
+
+DISCLAIMER: I did not use AI to write this essay.
