@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img class="img-fluid" src="../img/3632441.jpg">
+<img class="img-fluid" src="../img/Coding-Standards.jpg">
 
 TEXT
 
