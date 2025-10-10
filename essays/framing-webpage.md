@@ -29,8 +29,8 @@ I'm pretty sure the answer is pretty simple. If it wasn't obvious from the whole
 
 Don't get me wrong: HTML and CSS can surely create great pages. However, as basic as they are, the simply lack the dynamic content and interactivity that would make pages stand out. Not to mention, the performance can be pretty bad to the point where they require things like minification, bundling, and lazy loading just to optimize performance. In times where we live in a growing world that's constantly evolving to use better things, raw HTML and CSS are only good for their times, but there are just things that can be used like the aforementioned UI Frameworks that are far better than them quality-wise.
 
-## Software Engineering Benefits of UI Framework
+## Software Engineering Benefits of UI Frameworks
 
-TEXT
+If there was ever someone out there who would be interested in UI Frameworks, it would of course be the many software engineers and developers out there wanting to use them for their own creative minds. That being said, the benefits of UI Frameworks in software engineering include improved development speed to create user interfaces faster, being able to maintain and update code very easily to make it clean, and being able to test and debug, among other things. That way, users can be satisfied whenever they use an application made with UI Frameworks.
 
 DISCLAIMER: I did not use AI to write this essay.
