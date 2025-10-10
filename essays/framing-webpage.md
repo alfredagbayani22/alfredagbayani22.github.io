@@ -13,7 +13,7 @@ labels:
   - Education
 ---
 
-<img class="img-fluid" src="../img/Coding-Standards.jpg">
+<img class="img-fluid" src="../img/react-ui-frameworks-the-best.jpg">
 
 TEXT
 
