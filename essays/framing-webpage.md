@@ -19,15 +19,15 @@ It isn't much of a surprise that as time goes on, technology advances, which wou
 
 ## Why Bootstrap 5?
 
-TEXT
+When it comes to using Bootstrap 5, it is known to be very popular in modern web development, having an improved grid system that adds additional breaking points, great performance thanks to being fast with lightweight code, and enhanced customization that can make pages stand out with their endless possibilities of designs and themes. It makes webpages look visually great and appealing to the eye, especially since these webpages can appear very well on computers and mobile devices. Of course, as with every other programming language, it takes time to master Bootstrap 5. Having learned HTML code prior to using Bootstrap 5, I myself went through the basics of learning said language. I found it pretty tedious at first when it came to doing the formatting, but when I was done creating my page, it all turns out to be visually good, comparable to other websites of major companies/brands I have seen. That being said...
 
-## Is all this time worth it?
+## Is all this time learning UI Frameworks worth it?
 
-TEXT
+I'm pretty sure the answer is pretty simple. If it wasn't obvious from the whole modern era, benefits, and personal experiences, learning UI Frameworks and Bootstrap 5 is worth it. Taking a long time to learn the whole concept of frameworks is perfectly normal as it can allow people to have the time to have their imaginations and creativity shine and make them come to life to inspire those around them, and I'm pretty sure all of you had to go through many things similar to this even if they aren't in the technology field. Time is a valuable asset, after all.
 
 ## Why not just use raw HTML/CSS?
 
-TEXT
+Don't get me wrong: HTML and CSS can surely create great pages. However, 
 
 ## Software Engineering Benefits of UI Framework
 
