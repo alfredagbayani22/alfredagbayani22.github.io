@@ -4,7 +4,7 @@ type: essay
 title: "Mastering the Art of Framing a Perfect Webpage"
 # All dates must be YYYY-MM-DD format!
 date: 2025-10-09
-published: false
+published: true
 labels:
   - Coding
   - Newbie
@@ -27,7 +27,7 @@ I'm pretty sure the answer is pretty simple. If it wasn't obvious from the whole
 
 ## Why not just use raw HTML/CSS?
 
-Don't get me wrong: HTML and CSS can surely create great pages. However, 
+Don't get me wrong: HTML and CSS can surely create great pages. However, as basic as they are, the simply lack the dynamic content and interactivity that would make pages stand out. Not to mention, the performance can be pretty bad to the point where they require things like minification, bundling, and lazy loading just to optimize performance. In times where we live in a growing world that's constantly evolving to use better things, raw HTML and CSS are only good for their times, but there are just things that can be used like the aforementioned UI Frameworks that are far better than them quality-wise.
 
 ## Software Engineering Benefits of UI Framework
 
