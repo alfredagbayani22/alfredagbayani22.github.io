@@ -10,12 +10,20 @@ labels:
 
 <img class="img-fluid" src="../img/4k-animation-of-faq-frequently-asked-questions-smart-businessman-and-businesswoman-blow-flying-bubbles-with-q-and-a-question-mark-sign-video.jpg">
 
+## Overview
+
+The problem: 
+
+The solution: 
+
+## Approach
+
 TEST
 
-## The Problem
+## Use case ideas
 
 TEST
 
-## The Solution
+## Beyond the basics
 
 TEST
