@@ -20,9 +20,13 @@ The solution:
 
 TEST
 
+Some possible mockup pages include:
+* TEST
+
 ## Use case ideas
 
-TEST
+Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
+* TEST
 
 ## Beyond the basics
 
