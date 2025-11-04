@@ -26,4 +26,5 @@ TEST
 
 ## Beyond the basics
 
-TEST
+After implementing the basic functionality, here are ideas for more advanced features:
+* TEST
