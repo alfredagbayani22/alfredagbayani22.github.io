@@ -3,9 +3,13 @@ layout: essay
 type: essay
 title: "Final Project Idea"
 date: 2025-11-04
+published: true
 labels:
   - Software Engineering
   - Nextjs
+  - Maps
+  - Transportation
+  - Weather
 ---
 
 <img class="img-fluid" src="../img/google-maps-icon-on-map.avif">
@@ -46,3 +50,5 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Notify users through emails and social media about certain road closures and how long they will stay up for
 * Implement the locations of various other vehicles around them
 * Implement a satellite view of their location
+
+Idea proposed by Alfred Agbayani.
