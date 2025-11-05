@@ -12,9 +12,9 @@ labels:
 
 ## Overview
 
-The problem: 
+The problem: When it comes to transportation, whether it'd be going to work or shopping, it's very common for people who don't have access to their own vehicles to focus on using public transportation, which tends to be slower due to how these fixed routes usually take longer paths around instead of shorter paths that the people need to go to, causing them to be potentially late. This can especially be a problem for college students.
 
-The solution: 
+The solution: Rent-A+-Mode allows the user to rent their very own personal mode of transportation using an app that can not only have them own their own vehicle that can take them to their destinations, but also give routes to 
 
 ## Approach
 
