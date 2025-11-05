@@ -8,20 +8,24 @@ labels:
   - Nextjs
 ---
 
-<img class="img-fluid" src="../img/4k-animation-of-faq-frequently-asked-questions-smart-businessman-and-businesswoman-blow-flying-bubbles-with-q-and-a-question-mark-sign-video.jpg">
+<img class="img-fluid" src="../img/google-maps-icon-on-map.avif">
 
 ## Overview
 
 The problem: When it comes to transportation, whether it'd be going to work or shopping, it's very common for people who don't have access to their own vehicles to focus on using public transportation, which tends to be slower due to how these fixed routes usually take longer paths around instead of shorter paths that the people need to go to, causing them to be potentially late. This can especially be a problem for college students.
 
-The solution: Rent-A+-Mode allows the user to rent their very own personal mode of transportation using an app that can not only have them own their own vehicle that can take them to their destinations, but also give routes to 
+The solution: Rent-A+-Mode allows the user to rent their very own personal mode of transportation using an app that can not only have them own their own vehicle that can take them to their destinations, but also give routes indicating the shortest paths to take to get to their location while also noting other important things like construction, blocked roads, and the weather.
 
 ## Approach
 
-TEST
+When using this app, the users are able to 
 
 Some possible mockup pages include:
-* TEST
+* Route Map page
+* User profile page
+* Weather page
+* Construction site page
+* Calendar page
 
 ## Use case ideas
 
