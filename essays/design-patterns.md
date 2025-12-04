@@ -13,7 +13,7 @@ labels:
   - Education
 ---
 
-<img class="img-fluid" src="../img/Coding-Standards.jpg">
+<img class="img-fluid" src="../img/50-stunningly-beautiful-geometric-patterns-in-graphic-design.jpg">
 
 TEST
 
