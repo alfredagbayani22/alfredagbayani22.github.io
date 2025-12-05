@@ -4,7 +4,7 @@ type: essay
 title: "Patterns To Successful Designing"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-04
-published: false
+published: true
 labels:
   - Coding
   - Newbie
@@ -23,6 +23,6 @@ When it comes to the use of design patterns, they are common practices for build
 
 ## The use of design patterns in my final project
 
-Well, 
+Well, my project is pretty much a website known to load pretty fast whenever certain tabs and buttons are pressed thanks to being able to apply codes that allow it to use little data as possible. The other advantages of this website is how there are little redundant parts on the site that remain consistent thanks to certain components being reused throughout the website. With these additions, people are pretty much bound to feel satisfied in using the website without any complaints thanks to the codes used to make the site manageable for everyone, as with many common websites you go on online.
 
 DISCLAIMER: I did not use AI to write this essay.
