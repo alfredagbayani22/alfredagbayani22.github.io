@@ -15,13 +15,13 @@ labels:
 
 <img class="img-fluid" src="../img/50-stunningly-beautiful-geometric-patterns-in-graphic-design.jpg">
 
-TEST
+Whenever you look up a website whether it'd be your favorite or most important one, you would always see that it has a unique layout appealing to the eye. Then, when you go to another website, you come to realize that that website has a different layout than the previous site you checked, yet it is still unique in a way that it's appealing. It should come to no surprise that every website is known to have its different design pattern just to appeal to everybody who visits the site that wants to recognize it by a specific color or pattern. But why would they want to use design patterns? Let's take a closer look as to why they are appealing.
 
-## TEST
+## The "What" and the "Why"
 
-TEST
+When it comes to the use of design patterns, 
 
-## TEST
+## The use of design patterns in my final project
 
 TEST
 
