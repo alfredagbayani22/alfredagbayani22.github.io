@@ -14,7 +14,7 @@ labels:
   - Engineering
 ---
 
-<img class="img-fluid" src="../img/50-stunningly-beautiful-geometric-patterns-in-graphic-design.jpg">
+<img class="img-fluid" src="../img/collaborative-efforts-closeup-university-students-engaged-group-project-work_1000124-203544.avif">
 
 TEXT
 
