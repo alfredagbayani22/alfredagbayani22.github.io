@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Contributions and Tribulaitons"
+title: "Contributions and Tribulaitons with Effort"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-14
 published: true
@@ -36,6 +36,6 @@ When it came to tracking my actual effort, I usually keep track of how tired I p
 
 ## What I could change to improve my estimation/tracking progress
 
-TEXT
+Based on my recorded effort, I had low coding and non-coding effort, but it was never 0. I also only took 1 to 1.5 minutes to do my tasks. This basically shows that I'm doing good in doing my tasks, but if I had to improve on my estimation and tracking progress skills, it would be to do more of these tasks repeatedly to get the hang of them.
 
 DISCLAIMER: I did not use AI to write this essay.
