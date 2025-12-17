@@ -4,7 +4,7 @@ type: essay
 title: "Software Engineering Life"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-17
-published: true
+published: false
 labels:
   - Coding
   - Newbie
