@@ -45,7 +45,7 @@ During my final project, I would always rely on GitHub Copilot to get my tasks d
 
 ### Learning a concept / tutorial
 
-
+Whenever I was learning a new term or concept such as learning a new coding languages (IE. Typescript, HTML5, Bootstrap), I would ask AI about what they are all about. In response, AI would tell me exactly what they are about such as variables and styles for certain coding languages as well as just giving definitions to certain terms I am trying to learn about (IE. "What is <Blank>?). This would help me understand these concepts from a clearer perspective to the point where I can 
 
 ### Answering a question in class or in Discord
 
@@ -53,7 +53,7 @@ Whenever I was in class and my professor would ask my class a question, I would 
 
 ### Asking or answering a smart-question
 
-
+I never used AI to ask a smart question because I knew for a fact that it can be inaccurate in trying to give responses since it will have the tendency to look through certain badly asked SMART questions. Instead, I would ask my classmates on Discord for answers as they may have good experiences with these issues that I am trying to solve unlike AI which doesn't know what I am trying to resolve beforehand.
 
 ### Coding example e.g. “give an example of using Underscore .pluck”
 
@@ -61,7 +61,7 @@ Whenever I was in class and my professor would ask my class a question, I would 
 
 ### Explaining code
 
-
+Whenever I needed an explanation as to
 
 ### Writing code
 
@@ -73,11 +73,11 @@ Whenever I was in class and my professor would ask my class a question, I would 
 
 ### Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
 
-
+Whenever I am doing coding exercises (Especially WODs), it would be very common for me to notice errors in my code marked with red lines that were spotted thanks to ESLint. In order to fix these errors, I would have GitHub Copilot fix these errors for me to ensure that my code works as intended. While it can fix most of these errors, however, it seems to struggle in trying to add newlines that are needed at the end of every coding file, so I need to manually do it myself which is rather very easy. As much as the flaw with Copilot is that it can struggle to fix very easy errors that a human can fix, it can at least help me fix errors with more complex coding parts.
 
 ### Other uses in ICS 314 not listed
 
-Whenever we were discussing 
+During coding exercises, I would use AI to help me understand why I'm getting certain ESLint errors. It would then give me a detailed response that explains why they happen, and that way, I would know how to fix these errors whenever I come across them next time.
 
 ## AI's Impact on Learning and Understanding Things
 
