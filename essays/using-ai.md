@@ -57,7 +57,7 @@ I never used AI to ask a smart question because I knew for a fact that it can be
 
 ### Coding example e.g. “give an example of using Underscore .pluck”
 
-
+When it came to coding examples, I would occasionally ask ChatGPT about them, specifically asking "Give me an example of using <Coding method>". Afterwards, it generates the response to let me know how the coding example is formatted and done so I can try to replicate that coding example in the future should I be tasked to implemenet such.
 
 ### Explaining code
 
@@ -69,7 +69,7 @@ In terms of needing to write code (Especially during WODs), I would rely on GitH
 
 ### Documenting code
 
-
+When it came to documenting code, I would ask GitHub Copilot to add comments at certain segments of the code to have them explain how each coding segment works and what they do. This is done in a way that I can get a better understanding as to how my code works.
 
 ### Quality assurance e.g. "What’s wrong with this code <code here>" or "Fix the ESLint errors in <code here>”
 
