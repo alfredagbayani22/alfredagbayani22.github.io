@@ -61,17 +61,17 @@ I never used AI to ask a smart question because I knew for a fact that it can be
 
 ### Explaining code
 
-Whenever I needed an explanation as to
+Whenever I needed an explanation as to how certain code works, I would ask AI to help explain that for me. For example, if I needed to know how hero sections in Bootstrap work, I can just ask ChatGPT to explain it very proficiently. That way, I would have a better understanding as to how they work that can help me with future assignments.
 
 ### Writing code
 
-
+In terms of needing to write code (Especially during WODs), I would rely on GitHub Copilot to help generate my code for me. If they are WODs, I would copy the entire instructions on them and tell Copilot to "Follow these steps" so it can generate all of the needed code for me. I may need to revise certain parts of code by giving it more prompts to fix them, but it at least gets the job done. If I don't have any worded instructions on me, I would just ask Copilot as much information as possible to do what needs to be done so it can understand what I need to fulfill my requirements, which was pretty useful when I needed to work on my Final Project.
 
 ### Documenting code
 
 
 
-### Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+### Quality assurance e.g. "What’s wrong with this code <code here>" or "Fix the ESLint errors in <code here>”
 
 Whenever I am doing coding exercises (Especially WODs), it would be very common for me to notice errors in my code marked with red lines that were spotted thanks to ESLint. In order to fix these errors, I would have GitHub Copilot fix these errors for me to ensure that my code works as intended. While it can fix most of these errors, however, it seems to struggle in trying to add newlines that are needed at the end of every coding file, so I need to manually do it myself which is rather very easy. As much as the flaw with Copilot is that it can struggle to fix very easy errors that a human can fix, it can at least help me fix errors with more complex coding parts.
 
