@@ -25,11 +25,11 @@ When it came to my personal experience with using AI, I pretty frequently used i
 
 ### Experience WODs e.g. E18
 
-
+When it came to doing Experience WODs, it was very common for me to use AI to help me with my work. Initially, for the first few WODs that involved coding, I was able to finish these WODs very easily by myself without an AI as these were straightforward and part of the necessary learning experience for me to do better in the future by gaining skill. However, as time went on with the later experience WODs, they started to become increasingly more difficult. So, by the time I got to do the Jamba Juice WOD, I started to rely on AI to get my code functioning efficiently and accurately according to the instructions by telling it the instructions from copying and pasting them into the prompt. It has ultimately helped me complete my work a lot faster than how I would do it by myself without an AI.
 
 ### In-class Practice WODs
 
-Whenever I did the practice WODs, I would oftentimes rely on AI to generate a code within minutes 
+Whenever I did the practice WODs, I would oftentimes rely on AI to generate a code within minutes. This is something which I have done with the Banyan's Practice WOD for example, as I would copy the entire instructions and feed it to my chatbot (GitHub Copilot) and prompt it to "follow these stepss", to which it would generate a code for me. Of course, it wasn't perfect due to how there can be certain details it misses to the point where I need to point out what it missed specifically so it can work to add and revise code to fix these mistakes.
 
 ### In-class WODs
 
@@ -41,7 +41,7 @@ I have never used AI to write an essay (Whethere it'd be in full or partial chun
 
 ### Final project
 
-
+During my final project, I would always rely on GitHub Copilot to get my tasks done because I was under a strict time limit to get them done by the milestones. When it came down to implementing pages, I would tell it the specific instructions such as "Implement the Features page to make it look a lot like Discord's Features page" so it would know what I am talking about and make the best looking page accorkding to my instructions to it. I would still have to do the effort in tying in the specific instructions, but otherwise it would help me get my tasks done.
 
 ### Learning a concept / tutorial
 
@@ -49,7 +49,7 @@ I have never used AI to write an essay (Whethere it'd be in full or partial chun
 
 ### Answering a question in class or in Discord
 
-
+Whenever I was in class and my professor would ask my class a question, I would rely on AI (ChatGPT) to get an answer (IE. "What is <Blank>?)". Not only was it able to generate the response quickly, but it was also able to descriibe said answer in high quality. Ultimately, it would prove to be useful in quick time scenarios when I need questions to be answered immediately on the fly.
 
 ### Asking or answering a smart-question
 
@@ -77,9 +77,11 @@ I have never used AI to write an essay (Whethere it'd be in full or partial chun
 
 ### Other uses in ICS 314 not listed
 
-
+Whenever we were discussing 
 
 ## AI's Impact on Learning and Understanding Things
+
+TEXT
 
 ## Applications with AI
 
