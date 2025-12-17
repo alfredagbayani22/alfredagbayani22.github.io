@@ -71,7 +71,7 @@ In terms of needing to write code (Especially during WODs), I would rely on GitH
 
 When it came to documenting code, I would ask GitHub Copilot to add comments at certain segments of the code to have them explain how each coding segment works and what they do. This is done in a way that I can get a better understanding as to how my code works.
 
-### Quality assurance e.g. "What’s wrong with this code <code here>" or "Fix the ESLint errors in <code here>”
+### Quality assurance e.g. "What’s wrong with this code (code here)" or "Fix the ESLint errors in (code here)”
 
 Whenever I am doing coding exercises (Especially WODs), it would be very common for me to notice errors in my code marked with red lines that were spotted thanks to ESLint. In order to fix these errors, I would have GitHub Copilot fix these errors for me to ensure that my code works as intended. While it can fix most of these errors, however, it seems to struggle in trying to add newlines that are needed at the end of every coding file, so I need to manually do it myself which is rather very easy. As much as the flaw with Copilot is that it can struggle to fix very easy errors that a human can fix, it can at least help me fix errors with more complex coding parts.
 
@@ -81,23 +81,23 @@ During coding exercises, I would use AI to help me understand why I'm getting ce
 
 ## AI's Impact on Learning and Understanding Things
 
-TEXT
+In my experience with using AI, AI has helped me overcome many obstacles by teaching me what I need to know about them as well as how to solve these problems. For example, whenever I need to do a task in coding a webpage, AI is always there to tell me about what I need to do in a comprehensive manner as well as complete my code while explaining the steps it is going through in a comprehensive manner. If certain codes don't work out, I am able to work with AI by having a conversation with it in order to solve my problems. Due to these complex bits of code that it is able to generate, I am able to learn from the code that it generates so I can replicate it to the best of my ability and improve my skills by doing multiple coding exercises in similar formats taught to me by the AI. As a result, AI has helped my increase my understanding of software engineering concepts as a whole.
 
 ## Applications with AI
 
-TEXT
+When it came to me using AI outside of ICS314, I often used it for many applications. For example, whenever I needed to get difficult homework assignments done, I would turn to AI (ChatGPT) to navigate me in how to solve these homework problems. I would do this by copying the entire homework problems into the AI prompt so it can generate the answers I need to solve these problems. Aside from homework, AI has been useful to me for general things such as giving me the answers to non-educational questions about certain things or even give me instructions on how to do certain everyday activities such as cooking.
 
 ## Challenges and Opportunities with AI
 
-TEXT
+As far as humankind is aware, AI isn't perfect. Whenever I give instructions to AI about what it needs to do on coding exercises, for example, the AI does not always do everything in one go due to the errors that it may have failed to resolve to the point where I need to give more prompts to have it fix them. Also, when it came to asking it questions, it can sometimes give the wrong answer without me knowing it. As such, for future opportunities for AI to be integrated into software engineering education, it should be improved on overtime so it can become a reliable learning assistant that can help software engineering students learn.
 
 ## Teaching Methods VS AI
 
-TEXT
+When it comes to software engineering education, traditional teaching methods differ greatly compared to AI with their own advantages and disadvantages. For traditional teaching methods, due to how humans are the one teaching, they are able to give very concise answers that the AI may not be able to comprehend in real time to the point where students can actively engage in conversations with the teachers, but the issue is that they teach very slowly. For AI, it is able to generate responses very fast by looking into various websites, but it can lack the knowledge that more competent teachers have when it comes to teaching students. Comparing these two together, humans will still be needed to teach classes due to them having certain knowledge that AI does not know about, not to mention how humans are the only ones who can make AI improve by writing the coding algorithms for them.
 
 ## What AI might be like in the future
 
-TEXT
+As far as AI is right now, it is not perfect as mentioned with the earlier points. However, when it comes to thinking about what AI might be like in the future, there's always the idea that it can advace thanks to humans being able to revise code within AI to make it learn better to the point where AI can replicate human knowledge, even though that point will most likely happen far from now. There also might be challenges where an AI revolution might happen where AI might become rogue to the point where it will deem humans inferior to them and potentially start to cause harm, but as long as humans can control how AI is learning, that AI uprising event would probably not happen.
 
 ## Conclusion
 
