@@ -101,6 +101,6 @@ As far as AI is right now, it is not perfect as mentioned with the earlier point
 
 ## Conclusion
 
-TEXT
+In a growing generation, AI become the new trend that everyone talks about thanks to how it can help them with their everyday tasks. AI is especially useful when it comes to learning new things, but as it stands today, it isn't perfect to the point where it has yet to fully replace human teachers in the education system. Despite this, it can still be proficient enough in helping students learn and solve problems especially when it involves coding. Eventually, as time goes on, AI will start to get smarter to the point where people can reliably use it to solve their problems as quick as possible with little to no error.
 
 DISCLAIMER: I did not use AI to write this essay.
