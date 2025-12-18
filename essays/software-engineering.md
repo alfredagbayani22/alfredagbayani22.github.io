@@ -21,7 +21,7 @@ There's always an old saying that as time goes on, technology advances further w
 
 ## Coding Standards
 
-When it came to me learning about coding standards, 
+When it came to me learning about coding standards, it was mainly about learning about new coding languages in general. To nobody's surprise, many new coding languages get introduced in the many decades to come thanks to technology advancing, and so, with a new coding language, we are bound to learn about it and meet the language's expectations through practicing doing codes with the language itself. As much as this is commonly done when trying to create web pages, there exist coding standards beyond web application development in the form of trying to create video games for various consoles as being able to handle data and implement algorithms to ensure that results can be replicated. Both of these instances especially have one thing in common that isn't just involving web application development: being that people are bound to collaborate with each other into getting their coding tasks done for projects that aren't related to web development.
 
 ## User Interface Frameworks
 
