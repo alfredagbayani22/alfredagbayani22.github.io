@@ -29,10 +29,10 @@ When I learned about how to implement user interface frameworks, I foundd out th
 
 ## Ethics in Software Engineering
 
-For anyone in general who goes into Software Engineering, they are bound to follow a set of standards that influence how they behave and make decisions such as being respectful, providing the highest quality, and keeping a safe environment. This is common sense when it comes to creating web applications, but for the use of ethics in Software Engineering beyond just that, 
+For anyone in general who goes into Software Engineering, they are bound to follow a set of standards that influence how they behave and make decisions such as being respectful, providing the highest quality, and keeping a safe environment. This is common sense when it comes to creating web applications, but the ethics in Software Engineering are moreso there for anything in general and not just web application development, as people are expected to have sustainable practices to keep the environment around them healthy, especially when it comes to creating a healthy social environment that is beneficial to everyone whenever they are working together. Moreover, it is their responsibility to use technology correctly as well as provide an amount of fairness and responsibility to other users. This is especially true when you're trying to avoid having bias when creating artificial intelligence or respect the privacy of others with their data.
 
 ## Conclusion
 
-TEXT
+Software Engineering is 
 
 DISCLAIMER: I did not use AI to write this essay.
