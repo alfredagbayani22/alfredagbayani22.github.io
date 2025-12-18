@@ -25,11 +25,11 @@ When it came to me learning about coding standards, it was mainly about learning
 
 ## User Interface Frameworks
 
-TEXT
+When I learned about how to implement user interface frameworks, I foundd out that it was a programming language that was about using lightweight code to improve the performance of applications as well as add features on screens to have the users engage in interacting with objects on the screen. It is pretty popular for web application development, but in terms of how it can be used beyond that, it can also be used to create the user interface for various video games on various consoles that can let the players interact with things on their scree, create cross platform mobile applications using a single codebase, and build desktop applications from web technologies such as HTML5, CSS, and JavaScript. Every use of user interface frameworks beyond web application development especially has a thing in common where they let the developers be capable of designing things to their hearts content with unlimited potential on what they can create.
 
 ## Ethics in Software Engineering
 
-TEXT
+For anyone in general who goes into Software Engineering, they are bound to follow a set of standards that influence how they behave and make decisions such as being respectful, providing the highest quality, and keeping a safe environment. This is common sense when it comes to creating web applications, but for the use of ethics in Software Engineering beyond just that, 
 
 ## Conclusion
 
