@@ -4,7 +4,7 @@ type: essay
 title: "Software Engineering Life"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-17
-published: false
+published: true
 labels:
   - Coding
   - Newbie
@@ -33,6 +33,6 @@ For anyone in general who goes into Software Engineering, they are bound to foll
 
 ## Conclusion
 
-Software Engineering is 
+Software Engineering is a subject that is completely necessary for computer scientists to go through in their lives because it provides great versatility in terms of topics and applications beyond just creating web applications. People are encouraged to have a hands-on experience in getting to experience these very standards done by many software engineers before them as well as work competently as a team to get things done while also showing respect, privacy and responsibility for one another. As lomg as they take all of these lessons by heart, they will be bound to use everything they have learned for their personal future uses where they may find them handy.
 
 DISCLAIMER: I did not use AI to write this essay.
