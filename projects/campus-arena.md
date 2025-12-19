@@ -21,4 +21,4 @@ For how the website works, users are able to create tournament events by clickin
 
 The program is made on Vercel using a PostgreSQL database.
 
-Visit the CampusArena website here: https://campusarena.vercel.app/
+Visit the CampusArena website [here](https://campusarena.vercel.app/).
