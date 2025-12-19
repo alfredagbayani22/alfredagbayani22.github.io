@@ -24,4 +24,4 @@ With interests in software engineering formed, it's now time we talk about the s
 
 ## Conclusion
 
-If one couldn't tell already, when one is able to learn the basic concepts of software engineering given the time dedicated to fulfill their needs, it can help them adapt to the world with its versatility to create many endless possibilities on how these softwares can be formed. Thus, as I have my personal goals of wanting to become a better at coding, everyone should very much do the same in trying to reach their goals.
+If one couldn't tell already, when one is able to learn the basic concepts of software engineering given the time dedicated to fulfill their needs, it can help them adapt to the world with its versatility to create many endless possibilities on how these softwares can be formed. Thus, as I have my personal goals of wanting to become better at coding, everyone should very much do the same in trying to reach their goals.

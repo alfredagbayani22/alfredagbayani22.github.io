@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Contributions and Tribulaitons with Effort"
+title: "Contributions and Tribulations with Effort"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-14
 published: true
@@ -28,7 +28,7 @@ By being able to estimate in advance, it easily comes with its benefits. For sta
 
 ## Actual effort tracking usefulness
 
-Tracking actual effort was pretty useful to me. It was able to help me inform my future estimates by showing if I take no efffort, some effort, or high effort when I do a task. That way, I would be able to know when to raise or lower my predicted estimated time when needed.
+Tracking actual effort was pretty useful to me. It was able to help me inform my future estimates by showing if I take no effort, some effort, or high effort when I do a task. That way, I would be able to know when to raise or lower my predicted estimated time when needed.
 
 ## How I was able to track my actual effort and its accuracy
 

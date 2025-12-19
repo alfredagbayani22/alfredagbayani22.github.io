@@ -16,7 +16,7 @@ labels:
 
 ## Overview
 
-The problem: When it comes to transportation, whether it'd be going to work or shopping, it's very common for people who don't have access to their own vehicles to focus on using public transportation, which tends to be slower due to how these fixed routes usually take longer paths around instead of shorter paths that the people need to go to, causing them to be potentially late. This can especially be a problem for college students.
+The problem: When it comes to transportation, whether it be going to work or shopping, it's very common for people who don't have access to their own vehicles to focus on using public transportation, which tends to be slower due to how these fixed routes usually take longer paths around instead of shorter paths that the people need to go to, causing them to be potentially late. This can especially be a problem for college students.
 
 The solution: The Rent-A+-Mode application allows the user to rent their very own personal mode of transportation using an app that can not only have them own their own vehicle that can automatically take them to their destinations, but also give routes indicating the shortest paths to take to get to their location while also noting other important things like construction, blocked roads, and the weather.
 
@@ -24,7 +24,7 @@ The solution: The Rent-A+-Mode application allows the user to rent their very ow
 
 For this app, the users should be able to be provided high quality experience through being guided about where any major construction areas, road detours, or weather alerts, as well as how long said obstacles will be up for. They should be able to have an account to log in with that contains their information about themselves so they can verify their age as well as what workplace they go to so the automatic vehicle will remember where they need to go. If this person happens to be major such as a college student or a worker from a major company, the app will be sure to prioritize their automatic vehicles on them so they can get to their destinations on time.
 
-The app should contain key markings such as where the construction areas are road detours, as well as what the weather in a specific area is that indicates if it is safe for them to drive or not.
+The app should contain key markings such as where the construction areas and road detours are, as well as what the weather in a specific area is that indicates if it is safe for them to drive or not.
 
 Some possible mockup pages include:
 * Landing page
@@ -32,7 +32,7 @@ Some possible mockup pages include:
 * User profile page
 * Weather page
 * Construction site page
-* Autommatic vehicle availability page
+* Automatic vehicle availability page
 * Calendar page
 
 ## Use case ideas

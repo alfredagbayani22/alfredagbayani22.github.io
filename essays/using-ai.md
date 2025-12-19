@@ -17,7 +17,7 @@ labels:
 
 ## Introduction
 
-Ever since the start of the new decade in 2020, the idea of AI, something which has been thought about in the last century in both fiction and nonfiction, would become increasingly trending within the Software Engineering community. More specifically, the use of chatbots such as ChatGPT and GitHub Copilot have become increasingly popular due to the fact that they have helped people get work done faster through searching things on the internet as well as thinking deeply faster than a human as to how to get these tasks done. This is especially true when it comes to the role of AI within the education system, which has helped many students learn new things as they seek for help in what they need to do to get their work done fast. That said, I myself have used AI chatbots such as ChatGPT and GitHub Coopilot to get tasks done.
+Ever since the start of the new decade in 2020, the idea of AI, something which has been thought about in the last century in both fiction and nonfiction, would become increasingly trending within the Software Engineering community. More specifically, the use of chatbots such as ChatGPT and GitHub Copilot have become increasingly popular due to the fact that they have helped people get work done faster through searching things on the internet as well as thinking deeply faster than a human as to how to get these tasks done. This is especially true when it comes to the role of AI within the education system, which has helped many students learn new things as they seek for help in what they need to do to get their work done fast. That said, I myself have used AI chatbots such as ChatGPT and GitHub Copilot to get tasks done.
 
 ## My personal experience with AI
 
@@ -29,7 +29,7 @@ When it came to doing Experience WODs, it was very common for me to use AI to he
 
 ### In-class Practice WODs
 
-Whenever I did the practice WODs, I would oftentimes rely on AI to generate a code within minutes. This is something which I have done with the Banyan's Practice WOD for example, as I would copy the entire instructions and feed it to my chatbot (GitHub Copilot) and prompt it to "follow these stepss", to which it would generate a code for me. Of course, it wasn't perfect due to how there can be certain details it misses to the point where I need to point out what it missed specifically so it can work to add and revise code to fix these mistakes.
+Whenever I did the practice WODs, I would oftentimes rely on AI to generate a code within minutes. This is something which I have done with the Banyan's Practice WOD for example, as I would copy the entire instructions and feed it to my chatbot (GitHub Copilot) and prompt it to "follow these steps", to which it would generate a code for me. Of course, it wasn't perfect due to how there can be certain details it misses to the point where I need to point out what it missed specifically so it can work to add and revise code to fix these mistakes.
 
 ### In-class WODs
 
@@ -37,19 +37,19 @@ Initially, when I started my very first WOD, I did it without using AI because I
 
 ### Essays
 
-I have never used AI to write an essay (Whethere it'd be in full or partial chunks of it) as it would be completely dishonest to have something do the work for me that doesn't reflect how I myself thought about doing these things. However, at times I did sometimes use Grammarly to check for grammatical errors in my essays so I can have a perfectly organized essay.
+I have never used AI to write an essay (Whether it'd be in full or partial chunks of it) as it would be completely dishonest to have something do the work for me that doesn't reflect how I myself thought about doing these things. However, at times I did sometimes use Grammarly to check for grammatical errors in my essays so I can have a perfectly organized essay.
 
 ### Final project
 
-During my final project, I would always rely on GitHub Copilot to get my tasks done because I was under a strict time limit to get them done by the milestones. When it came down to implementing pages, I would tell it the specific instructions such as "Implement the Features page to make it look a lot like Discord's Features page" so it would know what I am talking about and make the best looking page accorkding to my instructions to it. I would still have to do the effort in tying in the specific instructions, but otherwise it would help me get my tasks done.
+During my final project, I would always rely on GitHub Copilot to get my tasks done because I was under a strict time limit to get them done by the milestones. When it came down to implementing pages, I would tell it the specific instructions such as "Implement the Features page to make it look a lot like Discord's Features page" so it would know what I am talking about and make the best looking page according to my instructions to it. I would still have to do the effort in tying in the specific instructions, but otherwise it would help me get my tasks done.
 
 ### Learning a concept / tutorial
 
-Whenever I was learning a new term or concept such as learning a new coding languages (IE. Typescript, HTML5, Bootstrap), I would ask AI about what they are all about. In response, AI would tell me exactly what they are about such as variables and styles for certain coding languages as well as just giving definitions to certain terms I am trying to learn about (IE. "What is <Blank>?). This would help me understand these concepts from a clearer perspective to the point where I can 
+Whenever I was learning a new term or concept such as learning a new coding languages (IE. Typescript, HTML5, Bootstrap), I would ask AI about what they are all about. In response, AI would tell me exactly what they are about such as variables and styles for certain coding languages as well as just giving definitions to certain terms I am trying to learn about (IE. "What is <Blank>?). This would help me understand these concepts from a clearer perspective to the point where I can understand them better. 
 
 ### Answering a question in class or in Discord
 
-Whenever I was in class and my professor would ask my class a question, I would rely on AI (ChatGPT) to get an answer (IE. "What is <Blank>?)". Not only was it able to generate the response quickly, but it was also able to descriibe said answer in high quality. Ultimately, it would prove to be useful in quick time scenarios when I need questions to be answered immediately on the fly.
+Whenever I was in class and my professor would ask my class a question, I would rely on AI (ChatGPT) to get an answer (IE. "What is <Blank>?)". Not only was it able to generate the response quickly, but it was also able to describe said answer in high quality. Ultimately, it would prove to be useful in quick time scenarios when I need questions to be answered immediately on the fly.
 
 ### Asking or answering a smart-question
 
@@ -57,7 +57,7 @@ I never used AI to ask a smart question because I knew for a fact that it can be
 
 ### Coding example e.g. “give an example of using Underscore .pluck”
 
-When it came to coding examples, I would occasionally ask ChatGPT about them, specifically asking "Give me an example of using <Coding method>". Afterwards, it generates the response to let me know how the coding example is formatted and done so I can try to replicate that coding example in the future should I be tasked to implemenet such.
+When it came to coding examples, I would occasionally ask ChatGPT about them, specifically asking "Give me an example of using <Coding method>". Afterwards, it generates the response to let me know how the coding example is formatted and done so I can try to replicate that coding example in the future should I be tasked to implement such.
 
 ### Explaining code
 
@@ -97,10 +97,10 @@ When it comes to software engineering education, traditional teaching methods di
 
 ## What AI might be like in the future
 
-As far as AI is right now, it is not perfect as mentioned with the earlier points. However, when it comes to thinking about what AI might be like in the future, there's always the idea that it can advace thanks to humans being able to revise code within AI to make it learn better to the point where AI can replicate human knowledge, even though that point will most likely happen far from now. There also might be challenges where an AI revolution might happen where AI might become rogue to the point where it will deem humans inferior to them and potentially start to cause harm, but as long as humans can control how AI is learning, that AI uprising event would probably not happen.
+As far as AI is right now, it is not perfect as mentioned with the earlier points. However, when it comes to thinking about what AI might be like in the future, there's always the idea that it can advance thanks to humans being able to revise code within AI to make it learn better to the point where AI can replicate human knowledge, even though that point will most likely happen far from now. There also might be challenges where an AI revolution might happen where AI might become rogue to the point where it will deem humans inferior to them and potentially start to cause harm, but as long as humans can control how AI is learning, that AI uprising event would probably not happen.
 
 ## Conclusion
 
-In a growing generation, AI become the new trend that everyone talks about thanks to how it can help them with their everyday tasks. AI is especially useful when it comes to learning new things, but as it stands today, it isn't perfect to the point where it has yet to fully replace human teachers in the education system. Despite this, it can still be proficient enough in helping students learn and solve problems especially when it involves coding. Eventually, as time goes on, AI will start to get smarter to the point where people can reliably use it to solve their problems as quick as possible with little to no error.
+In a growing generation, AI has become the new trend that everyone talks about thanks to how it can help them with their everyday tasks. AI is especially useful when it comes to learning new things, but as it stands today, it isn't perfect to the point where it has yet to fully replace human teachers in the education system. Despite this, it can still be proficient enough in helping students learn and solve problems especially when it involves coding. Eventually, as time goes on, AI will start to get smarter to the point where people can reliably use it to solve their problems as quick as possible with little to no error.
 
 DISCLAIMER: I did not use AI to write this essay.
