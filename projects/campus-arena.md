@@ -9,6 +9,7 @@ labels:
   - Competition
   - Sports
   - Gaming
+  - Web Development
 summary: "This was a website application that I worked on with many others as part of a group final project."
 ---
 
